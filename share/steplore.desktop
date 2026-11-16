@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Steplore
+Comment=Learn algorithms one step at a time
+Comment[zh_TW]=一步一步，看懂演算法
+Exec=steplore
+Icon=steplore
+Terminal=false
+Categories=Education;
+StartupWMClass=steplore
